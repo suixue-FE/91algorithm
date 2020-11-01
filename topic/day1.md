@@ -17,6 +17,7 @@
 来源：力扣（LeetCode）
 链接：leetcode-cn.com/problems/plus-one
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
+
 [前往答题](https://github.com/lisansang/91algorithm/issues/1)
 
 ## 个人解答
